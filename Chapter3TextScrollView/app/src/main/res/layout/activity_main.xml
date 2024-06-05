@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:layout_margin="20dp"
+        app:srcCompat="@drawable/modi1" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:text="Prime Minister Narendra Modi, who has been at the helm of India's government since 2014,
+    is known for his dynamic leadership and ambitious vision for the country.
+    Modi's tenure has been marked by a range of significant initiatives aimed at transforming India's economic
+    landscape and boosting its global standing. Key among these initiatives are the campaign,
+    which seeks to turn India into a global manufacturing hub,
+    and  which aims to enhance the country's digital infrastructure and connectivity.
+Under Modi's leadership, India has seen substantial developments in infrastructure,
+ including the construction of highways,
+ railways, and urban development projects. His government has also focused on financial inclusion through
+  schemes like Jan Dhan Yojana, which has brought millions of unbanked citizens into the formal banking system.
+Modi's foreign policy has been characterized by a proactive and assertive stance, seeking to strengthen ties with major
+ global powers while also engaging with neighboring countries.
+ His government has actively worked to enhance India's security apparatus,
+ addressing both traditional and non-traditional security challenges.
+Despite these achievements, Modi's tenure has not been without controversy.
+His government has faced criticism over issues such as the handling of the COVID-19 pandemic,
+economic challenges, and social policies. Nonetheless, Modi remains a highly influential figure in Indian politics,
+with a significant following and the ability to mobilize public opinion on key issu" />
+    </ScrollView>
+
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="match_parent"
+        android:layout_margin="20dp"
+        android:layout_height="150dp"
+        app:srcCompat="@drawable/modi2" />
+
+</LinearLayout>

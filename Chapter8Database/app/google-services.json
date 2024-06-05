@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "412520992182",
+    "firebase_url": "https://data-base-project-23fbe-default-rtdb.firebaseio.com",
+    "project_id": "data-base-project-23fbe",
+    "storage_bucket": "data-base-project-23fbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412520992182:android:825526eec77f7892c0c517",
+        "android_client_info": {
+          "package_name": "com.example.abcd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbSxgvhH5CtQvmlkBW9hNPgPKjYW_uoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412520992182:android:f797ded33f1a2148c0c517",
+        "android_client_info": {
+          "package_name": "com.example.chapter8database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbSxgvhH5CtQvmlkBW9hNPgPKjYW_uoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412520992182:android:4dea9bfc372cb5e9c0c517",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbSxgvhH5CtQvmlkBW9hNPgPKjYW_uoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412520992182:android:e05576fc06d9dffbc0c517",
+        "android_client_info": {
+          "package_name": "com.example.firebasedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbSxgvhH5CtQvmlkBW9hNPgPKjYW_uoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412520992182:android:72463c501acf1bcec0c517",
+        "android_client_info": {
+          "package_name": "com.example.parecticdatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrbSxgvhH5CtQvmlkBW9hNPgPKjYW_uoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
