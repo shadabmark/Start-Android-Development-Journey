@@ -8,7 +8,8 @@ import android.widget.ArrayAdapter
 import android.widget.TextView
 import de.hdodenhof.circleimageview.CircleImageView
 
-class MyAdapter (private val context : Activity, private val arrayList: ArrayList<User>):ArrayAdapter<User>(context,R.layout.eachitem,arrayList) {
+class MyAdapter (private val context : Activity, private val arrayList: ArrayList<User>):
+    ArrayAdapter<User>(context,R.layout.eachitem,arrayList) {
 
     override fun getView(position: Int, convertView: View?, parent: ViewGroup): View {
 

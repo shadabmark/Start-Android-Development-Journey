@@ -13,7 +13,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
         val name = arrayOf("Shadab Mark","Saumya","Suhel","Pradeep","Noor","Arman","Salman Khan","Elon Musk","Sahil")
 
         val lastMsg = arrayOf("Hey how are you?","I am fine","Good","Looking Amazing","Fine","Kaise ho saare","what happen","Do you lier","No Buddy")
