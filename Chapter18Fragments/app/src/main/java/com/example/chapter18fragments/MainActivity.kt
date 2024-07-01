@@ -4,6 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import com.example.chapter18fragments.databinding.ActivityMainBinding
+import com.example.chapter18fragments.ui.login.LoginFragment
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
@@ -35,6 +36,11 @@ class MainActivity : AppCompatActivity() {
         binding.btnExam.setOnClickListener {
 
             replaceFrameWithFragments(Exam_Fragment())
+        }
+
+        binding.btnValidate.setOnClickListener {
+
+            replaceFrameWithFragments(LoginFragment())
         }
     }
 
